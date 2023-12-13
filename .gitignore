@@ -1,0 +1,11 @@
+.idea
+checkpoints
+__pycache__/
+**/wandb/
+
+nohup.out
+**/slurm*.out
+data
+cluster
+**/output/
+**/train.sh

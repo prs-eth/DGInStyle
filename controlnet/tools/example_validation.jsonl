@@ -1,0 +1,10 @@
+{"text": "road building wall fence pole vegetation terrain sky person truck", "image": "data/gta/images/00001.png", "conditioning_image": "data/gta/labels/00001.png"}
+{"text": "road sidewalk building wall fence pole traffic light traffic sign vegetation terrain sky person car motorcycle", "image": "data/gta/images/00002.png", "conditioning_image": "data/gta/labels/00002.png"}
+{"text": "road sidewalk building wall pole vegetation terrain sky person car", "image": "data/gta/images/00003.png", "conditioning_image": "data/gta/labels/00003.png"}
+{"text": "road sidewalk building wall pole vegetation terrain sky person car", "image": "data/gta/images/00004.png", "conditioning_image": "data/gta/labels/00004.png"}
+{"text": "road sidewalk building wall fence pole traffic light traffic sign vegetation terrain sky person car truck", "image": "data/gta/images/00005.png", "conditioning_image": "data/gta/labels/00005.png"}
+{"text": "road sidewalk building wall fence pole traffic light traffic sign vegetation terrain sky person car truck", "image": "data/gta/images/00006.png", "conditioning_image": "data/gta/labels/00006.png"}
+{"text": "road sidewalk building wall fence pole traffic light traffic sign vegetation terrain sky person car truck", "image": "data/gta/images/00007.png", "conditioning_image": "data/gta/labels/00007.png"}
+{"text": "road sidewalk building wall fence pole traffic light traffic sign vegetation terrain sky person car", "image": "data/gta/images/00008.png", "conditioning_image": "data/gta/labels/00008.png"}
+{"text": "road sidewalk building wall fence pole traffic light vegetation terrain sky person car truck", "image": "data/gta/images/00009.png", "conditioning_image": "data/gta/labels/00009.png"}
+{"text": "road sidewalk building wall fence pole traffic light traffic sign vegetation terrain sky person car truck", "image": "data/gta/images/00010.png", "conditioning_image": "data/gta/labels/00010.png"}

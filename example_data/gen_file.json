@@ -1,0 +1,22 @@
+[
+    {
+        "class": "15",
+        "class_name": "bus",
+        "file_name": "example_data/semantic_conditions/14813_labelTrainIds.png"
+    },
+    {
+        "class": "6",
+        "class_name": "traffic light",
+        "file_name": "example_data/semantic_conditions/06835_labelTrainIds.png"
+    },
+    {
+        "class": "13",
+        "class_name": "car",
+        "file_name": "example_data/semantic_conditions/06901_labelTrainIds.png"
+    },
+    {
+        "class": "12",
+        "class_name": "rider",
+        "file_name": "example_data/semantic_conditions/07025_labelTrainIds.png"
+    }
+]

@@ -1,0 +1,14 @@
+diffusers==0.22.0
+accelerate>=0.16.0
+transformers>=4.25.1
+torch==2.1.0
+torchvision==0.16.0
+torch-fidelity==0.3.0
+opencv-python
+urllib3==1.26.15
+tensorboard
+ftfy
+wandb
+
+
+
