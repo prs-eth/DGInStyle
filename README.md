@@ -1,6 +1,7 @@
 
 ## :minidisc: DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control
 
+**ECCV 2024**
 [[Project Page]](https://dginstyle.github.io/) | [[ArXiv]](https://arxiv.org/abs/2312.03048) |
 [[Datasets]](https://drive.google.com/file/d/1e2wiwr5_wgCN3pLCQMOQvjRqQYtEozWy/view)
 
@@ -145,13 +146,11 @@ This project is released under the [Apache License 2.0](LICENSE), while some spe
 
 ## :page_with_curl: Citation
 ```bibtex
-@misc{jia2023dginstyle,
-      title={DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control}, 
-      author={Yuru Jia, Lukas Hoyer, Shengyu Huang, Tianfu Wang, Luc Van Gool, Konrad Schindler, Anton Obukhov},
-      year={2023},
-      eprint={2312.03048},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{jia2024dginstyle,
+  title     = {DGInStyle: Domain-Generalizable Semantic Segmentation with Image Diffusion Models and Stylized Semantic Control}, 
+  author    = {Yuru Jia and Lukas Hoyer and Shengyu Huang and Tianfu Wang and Luc Van Gool and Konrad Schindler and Anton Obukhov},
+  booktitle = {European Conference on Computer Vision},
+  year      = {2024},
 }
 ```
 
