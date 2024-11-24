@@ -1093,9 +1093,11 @@ class StableDiffusionControlNetRefinePipeline(DiffusionPipeline, TextualInversio
                 for v in range(len(views)): 
                     w_start, h_start, w_end, h_end  = views[v]                    
                     with torch.no_grad():
-                        self.unet.to("cuda")
-                        self.controlnet.to("cuda")
-                        torch.cuda.empty_cache()
+                        if hasattr(self, "final_offload_hook") and self.final_offload_hook is not None:
+                            self.unet.to("cuda")
+                            self.controlnet.to("cuda")
+                            torch.cuda.empty_cache()
+
                         # expand the latents if we are doing classifier free guidance
                         # crop the latents                        
                         latent_view = latents[:, :, h_start:h_end, w_start:w_end]
